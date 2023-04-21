@@ -1,0 +1,15 @@
+.card-container{
+    width: 30%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    border: 1px solid;
+    gap: 1rem;
+    padding: 1rem;
+}
+.card-container input{
+    width: 93%;
+    padding: 0.7rem;
+}
